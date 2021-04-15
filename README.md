@@ -1,2 +1,2 @@
-# typora-theme-dark-anthracite
+# Typora theme - Dark anthracite
 Typora theme - dark anthracite
